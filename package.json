@@ -24,7 +24,7 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "broccoli-funnel": "^2.0.1",
+    "broccoli-funnel": "^3.0.0",
     "broccoli-merge-trees": "^3.0.1",
     "ember-cli-babel": "6.18.0",
     "phoenix": "^1.2.1"
